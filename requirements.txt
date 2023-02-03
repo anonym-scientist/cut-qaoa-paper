@@ -1,0 +1,11 @@
+numpy~=1.21.5
+qiskit~=0.37.0
+setuptools~=57.0.0
+networkx~=2.6.3
+matplotlib~=3.5.1
+scipy~=1.7.3
+pandas~=1.4.0
+stickytape~=0.2.1
+cvxgraphalgs~=0.1.2
+strip-hints~=0.1.10
+seaborn~=0.12.0

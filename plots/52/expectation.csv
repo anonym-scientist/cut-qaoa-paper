@@ -1,0 +1,9 @@
+,algorithm,value_type,value
+0,QAOA (par.),expectation,-8.585020000000009
+1,QAOA (par.),expectation_norm,0.6603861538461545
+2,cut-QAOA,expectation,-8.551073578008939
+3,cut-QAOA,expectation_norm,0.6577748906160722
+4,QAOA (seq.),expectation,-8.553550000000058
+5,QAOA (seq.),expectation_norm,0.6579653846153891
+6,random,expectation,-8.51112000000001
+7,random,expectation_norm,0.6547015384615393

@@ -1,0 +1,3 @@
+qiskit~=0.34.0
+stickytape~=0.2.1
+strip-hints~=0.1.10
